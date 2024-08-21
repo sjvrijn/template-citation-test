@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier
+AddCitation: true
+AddGitHubActions: false
+_commit: 0.5.0-70-g008596a
+_src_path: https://github.com/nlesc/python-template.git
+code_of_conduct_email: s.vanrijn@esciencecenter.nl
+copyright_holder: Netherlands eScience Center
+email: s.vanrijn@esciencecenter.nl
+full_name: Sander
+github_organization: sjvrijn
+keyword1: keyword1
+keyword2: keyword2
+license: Apache Software License 2.0
+package_name: my_python_package
+package_short_description: Short description of package
+template_profile: ask
+version: 0.1.0
